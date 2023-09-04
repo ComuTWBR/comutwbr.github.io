@@ -21,7 +21,7 @@ const config = {
   organizationName: "comutwbr", // Usually your GitHub org/user name.
   projectName: "comutwbr.github.io", // Usually your repo name.
   deploymentBranch: "deployment",
-  trailingSlash: false
+  trailingSlash: false,
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
